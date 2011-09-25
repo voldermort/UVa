@@ -20,4 +20,5 @@ File Names
   - o###.dat output for sample input
   - d###.dat correct sample output, only used to diff large outputs
   - Main.java java source file
+
 Reason for naming scheme: quick tab completion
