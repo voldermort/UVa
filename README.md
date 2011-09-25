@@ -11,14 +11,13 @@ Languages
 Tools
 ---
 [UVA toolkit](http://uvatoolkit.com/problemssolve.php)
-  -Allows for comparing test cases with correct solutions
+  - Allows for comparing test cases with correct solutions
 
 File Names
 ---
-  -s###.cpp Solution source file for c++
-  -i###.dat sample input file
-  -o###.dat output for sample input
-  -d###.dat correct sample output, only used to diff large outputs
-  -Main.java java source file
-Reason for naming scheme:  
-  quick tab completion
+  - s###.cpp Solution source file for c++
+  - i###.dat sample input file
+  - o###.dat output for sample input
+  - d###.dat correct sample output, only used to diff large outputs
+  - Main.java java source file
+Reason for naming scheme: quick tab completion
