@@ -14,6 +14,7 @@ Tools
   -Allows for comparing test cases with correct solutions
 
 File Names
+---
   -s###.cpp Solution source file for c++
   -i###.dat sample input file
   -o###.dat output for sample input
