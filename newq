@@ -7,7 +7,8 @@ else
   mkdir "$1"
   cd "$1"
   a=`expr ${#1} - 2`
-  echo "[Question: $1 \"$2\"](http://uva.onlinejudge.org/external/${1:0:$a}/$1.html)\n===" > "README.md"
+  echo "[Question: $1 \"$2\"](http://uva.onlinejudge.org/external/${1:0:$a}/$1.html)
+===" > "README.md"
   cp "../a$1/$1.cpp" "s$1.cpp"
   #cat "../template.cpp" > "s$1.cpp"
   echo "" > "i$1.dat"
