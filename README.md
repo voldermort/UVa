@@ -7,3 +7,8 @@ Languages
 - Java for library features like:
   - BigInteger
   - BigDecimal
+
+Tools
+---
+[UVA toolkit](http://uvatoolkit.com/problemssolve.php)
+  -Allows for comparing test cases with correct solutions
