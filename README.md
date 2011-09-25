@@ -1,5 +1,9 @@
-Test to see if a iframe can be embedded inside a markdown file
-
-<iframe src="http://uva.onlinejudge.org/external/4/401.html"></iframe>
-
-and now more text down here
+Collection of Solutions to UVa Online Judge Qustions
+===
+  http://uva.onlinejudge.org
+Languages
+---
+Mainly use c++, but only as an extension of c
+Sometimes use java because of specific language features like
+  - BigInteger
+  = BigDecimal
